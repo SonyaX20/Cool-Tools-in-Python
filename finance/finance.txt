@@ -11,3 +11,5 @@
 02.04 Waschen  6.5€
 02.04 Waschen  3.2€
 02.04 Edeka  2.3€
+02.04 Rossmann  19.7€
+02.04 Edeka  3.77€
