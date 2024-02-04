@@ -2,7 +2,12 @@
 02.03	GoAsia	4.9€
 02.03	Ditch	3.3€
 02.03	kleinAnzeigen	5€
-02.03	Kaufland	11€
-02.03	klapptisch	19€
-02.03	uber	14€
+02.03	Kaufland  11€
+02.03	klapptisch  19€
+02.03	uber  14€
 02.03		62.0€
+02.04 Umzug  60€
+02.04 Sofa  40€
+02.04 Waschen  6.5€
+02.04 Waschen  3.2€
+02.04 Edeka  2.3€
